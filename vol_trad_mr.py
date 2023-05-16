@@ -9,7 +9,7 @@ Created on Mon Jan 30 14:08:31 2023
 #%%
 import pandas as pd
 #import straddles_dat as s_dat
-import delta_hedge_strats_latest_risk_vega_hedge as d_h_s
+import delta_hedge_strats_latest_risk_vega_hedge as d_h_s   #auxilliary functions
 import pickle
 import numpy as np
 callendar={'JAN':'01','FEB':'02','MAR':'03','JUN':'06','SEP':'09','OCT':'10','NOV':'11','DEC':'12','O':'10','N':'11','D':'12'}
